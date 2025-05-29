@@ -5,16 +5,19 @@ This is a line follower code created for Ενσωματωμενα συστημα
 
 # Τι θα χρειαστούμε για να φτιαξουμε το ρομποτ:
   **1) 1x ESP32
+  
   2) 1x PCB board
-  3) 2x Step down
-  4) 1x 8 IR sensor array 
-  5) 1x 12v battery
-  6) 2x 12v 1000rpm dc motors
-  7) 1x DRV8833 motor driver
-  8) 2x rubber wheels
-  9) 1x steel ball wheel
-  10) Μερικα καλωδια για τις συνδεσεις
-  11) 1x Switch για να δινουμε ρευμα στο ρομποτ**
+     
+  4) 2x Step down
+     
+  6) 1x 8 IR sensor array 
+  7) 1x 12v battery
+  8) 2x 12v 1000rpm dc motors
+  9) 1x DRV8833 motor driver
+  10) 2x rubber wheels
+  11) 1x steel ball wheel
+  12) Μερικα καλωδια για τις συνδεσεις
+  13) 1x Switch για να δινουμε ρευμα στο ρομποτ**
 
 # Εισαγωγή βιβλιοθήκης
     #include <QTRSensors.h>
